@@ -1,10 +1,10 @@
-## 𝐓𝐇𝐀𝐍𝐊𝐒 𝐅𝐎𝐑 𝐀𝐋𝐋❤️ 
-### 𝐍𝐄𝐖 𝐂𝐀𝐓𝐁𝐎𝐓 ..
+## THANKS FOR USING
+### ZARA USERBOT💓 ..
 
-## ʙᴏᴛ ɪs ᴡᴏʀᴋɪɴɢ ᴏʀ ɴᴏᴛ
+## ZARA IS WORKING NOW 🙂🎀
 
 ```
-💝𝗖𝗔𝗧𝗕𝗢𝗧 𝗪𝗢𝗥𝗞𝗜𝗡𝗚
+💝CREATER FASIL-NX
 ```
 
 <div align="center">
@@ -37,7 +37,7 @@ Project created by <a href="https://github.com/itsmebasil0">basilser</a> to make
 
 ```
   
-catbot - catbot Userbot is Open Source software open to development. 
+zara bot- zara Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
 Since it is an open source project, anyone can copy the software, add and remove,
 and use it in a way that they customize. In addition, plug-in support enables users to 
@@ -54,7 +54,7 @@ the user is responsible.
 
 <h3 align="center">Contact Me:</h3>
 <p align="center">
-<a href="https://instagram.com/mohammed_basil_12?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://instagram.com/linix_00?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
 <h4 align="center">Support Video For Deploy Bot 👇:</h4>
 <p align="center">
@@ -84,7 +84,7 @@ bash <(curl -L https://t.ly/tHxh)
 ``` 
 ## Click here to join whatsapp group 
 
-[![hehe](https://i.imgur.com/6gTX8RE.jpg)](https://chat.whatsapp.com/EceyD88E4OeJwS0w8KUrsC)
+[![hehe](https://i.imgur.com/6gTX8RE.jpg)](https://chat.whatsapp.com/HafqIdLYMqIHlYYdumirxG)
 
 ## F.A.Q
 Answer a few frequently asked questions;
@@ -109,9 +109,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developer one and only 
   <div align="center">
     
-  [![Basilser](https://github.com/itsmebasil0.png?size=100)](https://github.com/itsmebasil0) |   
+  [![FASIL](https://github.com/FASIL-NX.png?size=100)](https://github.com/itsmebasil0) |   
 ----|
-[Basilser](https://github.com/itsmebasil0)  | 
+[FASIL](https://github.com/FASIL-NX)  | 
 Base, Bug Fixes, Modules | Modifiying  as   public
 
 ## License
