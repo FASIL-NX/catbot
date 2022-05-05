@@ -1,7 +1,7 @@
-## THANKS FOR USING
+## Thanks for using 🙂
 ### ZARA USERBOT💓 ..
 
-## ZARA IS WORKING NOW 🙂🎀
+## ZARA IS WORKING NOW 🌟
 
 ```
 💝CREATER FASIL-NX
@@ -17,7 +17,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/itsmebasil0">basilser</a> to make it public
+Project created by <a href="https://github.com/FASIL-NX">fasil-nx</a> to make it public
     <br>
        | © |
         Reserved |
